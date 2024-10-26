@@ -13,6 +13,7 @@ while index < len(my_list):
         break
 
 index = 0
+
 while index < len(positive_numbers):
     print(positive_numbers[index])
     index += 1
